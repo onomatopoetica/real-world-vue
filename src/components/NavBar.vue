@@ -1,6 +1,6 @@
 <template>
   <div id="nav" class="nav">
-    <router-link to="/" class="brand">Real World Events</router-link> |
+    <router-link to="/" class="brand">Real World Events</router-link>
     <nav>
       <router-link :to="{ name: 'Event-List' }">List</router-link> |
       <router-link :to="{ name: 'Event-Create' }">Create</router-link>
@@ -32,7 +32,7 @@ export default {}
   color: rgba(0, 0, 0, 0.5);
   text-decoration: none;
 }
-.nav .nav-item.router-link-exact-active {
+.nav .nav-item.router-link-exact-active div#nav.nav {
   color: #39b982;
   border-bottom: solid 2px #39b982;
 }
