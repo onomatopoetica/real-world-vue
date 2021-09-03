@@ -1,0 +1,100 @@
+{
+    "events": [
+      {
+        "id": 5928101,
+        "user": {
+          "id": "0003",
+          "name": "Scarlett"
+        },
+        "category": "animal welfare",
+        "organizer": "Jen",
+        "title": "Puppy Town",
+        "description": "Yay puppies!",
+        "location": "Puppy Beach, San Diego",
+        "date": "Sept 8 2021",
+        "time": "2:00",
+        "attendees": [
+          {
+            "id": "0022",
+            "name": "Scarlett Roux"
+          },
+          {
+            "id": "0043",
+            "name": "Rouxbe Doux"
+          },
+          {
+            "id": "0068",
+            "name": "Me Too"
+          },
+          {
+            "id": "0099",
+            "name": "Jenna Marbles"
+          }
+        ]
+      },
+      {
+        "id": 8419988,
+        "user": {
+          "id": "0002",
+          "name": "Rouxbe"
+        },
+        "category": "animal welfare",
+        "organizer": "Jen",
+        "title": "Dazzling Doggies",
+        "description": "Yay DOGS!",
+        "location": "Doglandia",
+        "date": "Sept 12 2021",
+        "time": "7:00",
+        "attendees": [
+          {
+            "id": "0022",
+            "name": "Scarlett Roux"
+          },
+          {
+            "id": "0043",
+            "name": "Rouxbe Doux"
+          },
+          {
+            "id": "0068",
+            "name": "Me Too"
+          },
+          {
+            "id": "0099",
+            "name": "Jenna Marbles"
+          }
+        ]
+      },
+      {
+        "id": 4582797,
+        "user": {
+          "id": "0001",
+          "name": "Jen"
+        },
+        "category": "animal welfare",
+        "organizer": "Scarlett",
+        "title": "Puppy Parade",
+        "description": "Yay pups!",
+        "location": "Puptown ",
+        "date": "Oct 2 2021",
+        "time": "1:00",
+        "attendees": [
+          {
+            "id": "0022",
+            "name": "Scarlett Roux"
+          },
+          {
+            "id": "0043",
+            "name": "Rouxbe Doux"
+          },
+          {
+            "id": "0068",
+            "name": "Me Too"
+          },
+          {
+            "id": "0099",
+            "name": "Jenna Marbles"
+          }
+        ]
+      }
+    ]
+  }
