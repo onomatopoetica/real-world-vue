@@ -1,5 +1,8 @@
 <template>
-  <div class="icon-wrapper" v-html="svg"></div>
+  <div class="icon-wrapper">
+    <span class="icon" v-html="svg"></span>
+    <slot></slot>
+  </div>
 </template>
 
 <script>
@@ -7,7 +10,10 @@ import feather from 'feather-icons'
 
 export default {
   props: {
-    name: String,
+    name: {
+      type: String,
+      required: true,
+    },
     width: {
       type: [Number, String],
       default: 24,
@@ -44,5 +50,6 @@ export default {
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
+  margin-right: 10px;
 }
 </style>
