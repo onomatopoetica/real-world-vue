@@ -40,11 +40,7 @@
 
       <div class="field">
         <label>Date</label>
-        <datepicker
-          v-model="event.date"
-          format="MM-dd-yyyy"
-          placeholder="Select a date"
-        />
+        <datepicker v-model="event.date" placeholder="Select a date" />
       </div>
 
       <div class="field">
@@ -80,10 +76,10 @@ export default {
   methods: {
     createEvent() {
       this.$store
-        .dispatch('createEvent', this.event)
+        .dispatch('event/createEvent', this.event)
         .then(() => {
           this.$router.push({
-            name: 'Event-Show',
+            name: 'event-show',
             params: { id: this.event.id },
           })
           this.event = this.createFreshEventObject()
@@ -93,7 +89,7 @@ export default {
         })
     },
     createFreshEventObject() {
-      const user = this.$store.state.user
+      const user = this.$store.state.user.user
       const id = Math.floor(Math.random() * 10000000)
 
       return {
