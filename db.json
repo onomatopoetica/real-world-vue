@@ -12,22 +12,40 @@
       "location": "Las Vegas - Bellagio Fountains",
       "date": "Oct 25 2021",
       "time": "11:00",
-      "attendees": [{
-        "id": "0022",
-        "name": "Scarlett Roux"
-      },
-      {
-        "id": "0043",
-        "name": "Rouxbe Doux"
-      },
-      {
-        "id": "0068",
-        "name": "Me Too"
-      },
-      {
-        "id": "0099",
-        "name": "Jenna Marbles"
-      }]
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        },
+        {
+          "id": "0093",
+          "name": "Zinky"
+        },
+        {
+          "id": "0054",
+          "name": "Wilbur"
+        },
+        {
+          "id": "0125",
+          "name": "Radcliff"
+        },
+        {
+          "id": "0245",
+          "name": "Max"
+        }
+      ]
     },
     {
       "id": 5928101,
@@ -132,27 +150,29 @@
         "id": "0003",
         "name": "Me Too"
       },
-      "title": "Testing",
-      "description": "Testing",
+      "title": "Tag & Wag",
+      "description": "Creating Unique Id Tags for Pets",
       "location": "Dog Beach",
       "date": "Oct 3 2021",
       "time": "9:00",
-      "attendees": [{
-        "id": "0022",
-        "name": "Scarlett Roux"
-      },
-      {
-        "id": "0043",
-        "name": "Rouxbe Doux"
-      },
-      {
-        "id": "0068",
-        "name": "Me Too"
-      },
-      {
-        "id": "0099",
-        "name": "Jenna Marbles"
-      }]
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        }
+      ]
     },
     {
       "id": 834488,
@@ -166,22 +186,24 @@
       "location": "Dog Beach",
       "date": "Oct 3 2021",
       "time": "9:00",
-      "attendees": [{
-        "id": "0022",
-        "name": "Scarlett Roux"
-      },
-      {
-        "id": "0043",
-        "name": "Rouxbe Doux"
-      },
-      {
-        "id": "0068",
-        "name": "Me Too"
-      },
-      {
-        "id": "0099",
-        "name": "Jenna Marbles"
-      }]
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        }
+      ]
     },
     {
       "id": 8390238,
@@ -195,22 +217,212 @@
       "location": "Dog Beach",
       "date": "Oct 15 2021",
       "time": "9:00",
-      "attendees": [{
-        "id": "0022",
-        "name": "Scarlett Roux"
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        }
+      ]
+    },
+    {
+      "id": 5194390,
+      "user": {
+        "id": "0003",
+        "name": "Scarlett"
       },
-      {
-        "id": "0043",
-        "name": "Rouxbe Doux"
+      "category": "animal welfare",
+      "organizer": {
+        "id": "0003",
+        "name": "Scarlett"
       },
-      {
-        "id": "0068",
-        "name": "Me Too"
+      "title": "Woofers & Waggers",
+      "description": "Doggies on Parade to Fight Pet Homelessness",
+      "location": "Butterfly Beach",
+      "date": "Sept 20 2021",
+      "time": "12:00",
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        }
+      ]
+    },
+    {
+      "id": 5240858,
+      "user": {
+        "id": "0003",
+        "name": "Scarlett"
       },
-      {
-        "id": "0099",
-        "name": "Jenna Marbles"
-      }]
+      "category": "animal welfare",
+      "organizer": {
+        "id": "0003",
+        "name": "Scarlett"
+      },
+      "title": "Trick or Treat & Wags - Trick or Treating for Dogs!",
+      "description": "Food Drive for Animal Shelter",
+      "location": "Butterfly Beach",
+      "date": "Oct 29 2021",
+      "time": "12:00",
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        },
+        {
+          "id": "0093",
+          "name": "Zinky"
+        },
+        {
+          "id": "0054",
+          "name": "Wilbur"
+        },
+        {
+          "id": "0125",
+          "name": "Radcliff"
+        },
+        {
+          "id": "0245",
+          "name": "Max"
+        }
+      ]
+    },
+    {
+      "id": 514354,
+      "user": {
+        "id": "0003",
+        "name": "Scarlett"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "0003",
+        "name": "Scarlett"
+      },
+      "title": "Spotty Dog Dog Wash Benefit!",
+      "description": "Dog Wash To Benefit the Humane Society!",
+      "location": "Wagging Dog Park ",
+      "date": "2021-11-03T22:31:00.000Z",
+      "time": "11:00",
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        },
+        {
+          "id": "0093",
+          "name": "Zinky"
+        },
+        {
+          "id": "0054",
+          "name": "Wilbur"
+        },
+        {
+          "id": "0125",
+          "name": "Radcliff"
+        },
+        {
+          "id": "0245",
+          "name": "Max"
+        }
+      ]
+    },
+    {
+      "id": 2463126,
+      "user": {
+        "id": "0003",
+        "name": "Scarlett"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "0003",
+        "name": "Scarlett"
+      },
+      "title": "Ruff Up The Catwalk - Encore!",
+      "description": "The wildly popular dog fashion show returns!",
+      "location": "Butterfly Beach",
+      "date": "2021-10-28T22:35:00.000Z",
+      "time": "11:00",
+      "attendees": [
+        {
+          "id": "0022",
+          "name": "Scarlett Roux"
+        },
+        {
+          "id": "0043",
+          "name": "Rouxbe Doux"
+        },
+        {
+          "id": "0068",
+          "name": "Me Too"
+        },
+        {
+          "id": "0099",
+          "name": "Jenna Marbles"
+        },
+        {
+          "id": "0093",
+          "name": "Zinky"
+        },
+        {
+          "id": "0054",
+          "name": "Wilbur"
+        },
+        {
+          "id": "0125",
+          "name": "Radcliff"
+        },
+        {
+          "id": "0245",
+          "name": "Max"
+        }
+      ]
     }
   ]
 }
