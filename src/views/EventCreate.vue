@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Create an Event</h1>
+    <h1>Create An Event</h1>
     <form @submit.prevent="createEvent">
       <label>Select a category</label>
       <select v-model="event.category">
